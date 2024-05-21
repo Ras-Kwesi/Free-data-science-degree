@@ -60,6 +60,15 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-iv-pattern-matching-dijkstras-mst-and-dynamic-programming-algorithms)
 
+#### Python Alternatives for DSA
+
+[Data Structures and Algorithms Specialization - UC San Diego / Coursera](https://www.coursera.org/specializations/data-structures-algorithms#courses)
+
+[Data Structures and Algorithms in Python - Jovian](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
+
+[Professor Gerry Jenkins](https://www.youtube.com/@gjenkinsedu)
+
+
 ### Databases
 [Database Management Essentials](https://www.coursera.org/learn/database-management)
 
